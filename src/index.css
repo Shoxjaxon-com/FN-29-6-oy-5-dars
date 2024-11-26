@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base{
+    html{
+        height: 100%;
+        width: 100%;
+    }
+ body{
+    background-color: #E4F4FD;
+    height: 100%;
+    padding: 30px ;
+    color: black;
+ }   
+}
