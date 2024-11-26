@@ -120,7 +120,7 @@ export default function MortgageCalculator() {
             className="w-full bg-yellow-400 hover:bg-yellow-500 text-black font-bold py-2 px-4 rounded-lg flex justify-center items-center gap-2"
           >
             <span role="img" aria-label="calculator">
-              🧮
+              
             </span>
             Calculate Repayments
           </button>
